@@ -15,7 +15,7 @@ function App() {
         </div>
         <div>
           <h4>ALLAH IS GREATEST IN THE WORLD!.</h4>
-          <h4>All about our the new project</h4>
+          <h4>All all about our the new project</h4>
         </div>
       </section>
     </>
